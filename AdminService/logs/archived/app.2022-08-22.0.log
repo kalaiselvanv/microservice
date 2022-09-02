@@ -1,0 +1,16 @@
+2022-08-22 11:24:41,605 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-22 11:24:41,661 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 22ms. Found 0 JPA repository interfaces.
+2022-08-22 11:24:42,058 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=0eaa94c4-0b87-32db-8025-538154fbd25a
+2022-08-22 11:24:42,587 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9082 (http)
+2022-08-22 11:24:42,847 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2422 ms
+2022-08-22 11:24:45,375 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-22 11:24:45,960 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-22 11:24:46,418 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-22 11:24:47,410 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses Jersey
+2022-08-22 11:24:47,843 WARN org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger [main] You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2022-08-22 11:24:48,282 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2022-08-22 11:24:50,386 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application ADMIN with eureka with status UP
+2022-08-22 11:24:50,498 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9082 (http) with context path ''
+2022-08-22 11:24:50,502 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9082
+2022-08-22 11:27:17,823 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9082-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-22 11:27:17,845 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9082-exec-1] Completed initialization in 21 ms

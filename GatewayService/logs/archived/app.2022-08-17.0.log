@@ -1,0 +1,949 @@
+2022-08-17 00:02:14,153 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:07:14,203 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:12:14,213 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:17:14,229 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:22:14,240 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:27:14,263 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:32:14,299 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:37:14,311 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:42:14,338 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:47:14,351 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:52:14,362 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 00:57:14,375 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:02:14,393 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:07:14,417 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:12:14,426 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:17:14,458 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:22:14,465 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:27:14,489 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:32:14,501 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:37:14,519 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:42:14,533 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:47:14,559 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:52:14,576 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 01:57:14,600 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:02:14,617 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:07:14,627 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:12:14,635 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:17:14,654 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:22:14,670 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:27:14,690 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:32:14,707 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:37:14,722 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:42:14,728 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:47:14,752 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:52:14,767 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 02:57:14,776 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:02:14,794 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:07:14,803 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:12:14,814 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:17:14,825 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:22:14,836 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:27:14,842 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:32:14,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:37:14,856 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:42:14,866 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:47:14,874 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:52:14,887 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 03:57:14,907 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:02:14,917 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:07:14,938 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:12:14,944 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:17:14,957 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:22:14,971 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:27:14,980 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:32:14,998 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:37:15,016 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:42:15,026 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:47:15,048 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:52:15,062 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 04:57:15,074 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:02:15,098 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:07:15,126 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:12:15,150 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:17:15,167 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:22:15,183 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:27:15,201 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:32:15,227 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:37:15,242 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:42:15,261 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:47:15,280 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:52:15,310 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 05:57:15,340 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:02:15,350 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:07:15,365 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:12:15,381 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:17:15,403 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:22:15,410 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:27:15,423 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:32:15,428 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:37:15,435 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:42:15,443 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:47:15,459 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:52:15,473 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 06:57:15,483 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:02:15,499 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:07:15,507 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:12:15,529 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:17:15,537 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:22:15,540 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:27:15,552 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:32:15,567 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:37:15,582 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:42:15,593 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:47:15,608 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:52:15,618 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 07:57:15,629 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:02:15,634 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:07:15,647 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:12:15,653 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:17:15,676 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:22:15,687 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:27:15,710 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:32:15,729 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:37:15,736 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:42:15,743 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:47:15,762 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:52:15,773 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 08:57:15,788 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:02:15,807 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:07:15,831 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:12:15,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:17:15,864 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:22:15,878 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:27:15,894 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:32:15,914 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:37:15,924 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:42:15,938 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:47:15,949 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:52:15,968 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 09:57:15,984 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:02:15,996 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:07:16,018 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:12:16,041 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:17:16,058 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:22:16,071 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:27:16,086 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:32:16,105 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:37:16,125 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:42:16,139 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:47:16,155 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:52:16,179 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 10:57:16,196 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:02:16,212 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:07:16,231 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:12:16,248 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:17:16,260 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:22:16,262 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:27:16,271 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:32:16,288 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:37:16,294 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:42:16,320 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:47:16,323 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:52:16,342 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 11:57:16,358 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:02:16,373 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:07:16,391 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:12:16,411 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:17:16,417 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:22:16,431 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:27:16,445 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:32:16,454 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:37:16,468 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:42:16,474 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:47:16,487 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:52:16,498 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 12:57:16,518 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:02:16,528 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:03:14,411 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(1229)-127.0.0.1] Application shutdown requested.
+2022-08-17 13:03:14,427 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(1229)-127.0.0.1] Unregistering application GATEWAY with eureka with status DOWN
+2022-08-17 13:03:14,427 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(1229)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1660721594427, current=DOWN, previous=UP]
+2022-08-17 13:03:14,427 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 13:03:14,463 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 13:03:14,801 INFO org.apache.catalina.core.StandardService [RMI TCP Connection(1229)-127.0.0.1] Stopping service [Tomcat]
+2022-08-17 13:03:14,817 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [RMI TCP Connection(1229)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-08-17 13:03:14,854 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(1229)-127.0.0.1] The web application [sbp] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2022-08-17 13:03:14,854 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(1229)-127.0.0.1] The web application [sbp] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(LockSupport.java:175)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2039)
+ java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:442)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2022-08-17 13:03:14,857 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(1229)-127.0.0.1] The web application [sbp] appears to have started a thread named [RxIoScheduler-1 (Evictor)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:215)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2078)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1093)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:809)
+ java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1074)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1134)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+ java.lang.Thread.run(Thread.java:748)
+2022-08-17 13:03:14,894 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [RMI TCP Connection(1229)-127.0.0.1] Stopping filter initializer
+2022-08-17 13:03:14,978 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(1229)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-17 13:03:15,090 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(1229)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 13:03:15,110 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(1229)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-08-17 13:03:15,156 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(1229)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-08-17 13:03:15,165 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(1229)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-08-17 13:03:18,166 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(1229)-127.0.0.1] Unregistering ...
+2022-08-17 13:03:18,213 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(1229)-127.0.0.1] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - deregister  status: 200
+2022-08-17 13:03:18,230 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(1229)-127.0.0.1] Completed shut down of DiscoveryClient
+2022-08-17 13:12:31,108 INFO com.rps.gateway.GatewayServiceApplication [main] The following profiles are active: dev
+2022-08-17 13:12:34,849 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-17 13:12:34,975 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 91ms. Found 0 JPA repository interfaces.
+2022-08-17 13:12:35,643 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2022-08-17 13:12:35,722 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'hystrix.stream' contains invalid characters, please migrate to a valid format.
+2022-08-17 13:12:36,431 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=88b3c33d-f62f-3e61-9467-c425b683f3ce
+2022-08-17 13:12:37,476 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6215366a' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 13:12:37,502 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 13:12:38,512 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9080 (http)
+2022-08-17 13:12:38,530 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-08-17 13:12:38,530 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-08-17 13:12:38,996 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [main] Initializing Spring embedded WebApplicationContext
+2022-08-17 13:12:38,997 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 7847 ms
+2022-08-17 13:12:39,503 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 13:12:39,504 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 13:12:39,539 INFO com.netflix.config.DynamicPropertyFactory [main] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@656a3d6b
+2022-08-17 13:12:39,917 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-17 13:12:40,387 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-17 13:12:40,559 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-08-17 13:12:40,964 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-17 13:12:41,377 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-08-17 13:12:43,058 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-08-17 13:12:43,082 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-17 13:12:45,387 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-17 13:12:45,428 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 13:12:46,865 INFO com.rps.gateway.config.SimpleCORSFilter [main] SimpleCORSFilter init
+2022-08-17 13:12:49,629 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses Jersey
+2022-08-17 13:12:49,738 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2022-08-17 13:12:50,214 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-08-17 13:12:51,110 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4a49919c, org.springframework.security.web.context.SecurityContextPersistenceFilter@189e96af, org.springframework.security.web.header.HeaderWriterFilter@29b4444a, org.springframework.web.filter.CorsFilter@3e5b2630, org.springframework.security.web.authentication.logout.LogoutFilter@34cfdd84, com.rps.gateway.config.AuthTokenFilter@55f6f965, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@60e80279, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@568c9ee1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1c22642d, org.springframework.security.web.session.SessionManagementFilter@4fc256ec, org.springframework.security.web.access.ExceptionTranslationFilter@362c48c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3d5f08d4]
+2022-08-17 13:12:51,210 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 13:12:51,211 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 13:12:51,492 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-17 13:12:52,966 WARN org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger [main] You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2022-08-17 13:12:53,555 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [main] Starting filter initializer
+2022-08-17 13:12:53,940 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2022-08-17 13:12:54,101 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2022-08-17 13:12:54,332 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON encoding codec LegacyJacksonJson
+2022-08-17 13:12:54,332 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON decoding codec LegacyJacksonJson
+2022-08-17 13:12:54,775 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML encoding codec XStreamXml
+2022-08-17 13:12:54,776 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML decoding codec XStreamXml
+2022-08-17 13:12:55,524 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2022-08-17 13:12:55,588 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2022-08-17 13:12:55,588 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2022-08-17 13:12:55,589 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2022-08-17 13:12:55,589 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2022-08-17 13:12:55,589 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2022-08-17 13:12:55,589 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2022-08-17 13:12:55,589 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2022-08-17 13:12:56,596 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2022-08-17 13:12:56,610 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2022-08-17 13:12:56,629 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-08-17 13:12:56,668 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1660722176646 with initial instances count: 0
+2022-08-17 13:12:56,687 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GATEWAY with eureka with status UP
+2022-08-17 13:12:56,688 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1660722176688, current=UP, previous=STARTING]
+2022-08-17 13:12:56,701 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 13:12:56,850 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9080 (http) with context path '/sbp'
+2022-08-17 13:12:56,853 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9080
+2022-08-17 13:12:56,972 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 13:12:57,055 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2022-08-17 13:12:57,087 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2022-08-17 13:12:57,197 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2022-08-17 13:12:57,483 INFO com.rps.gateway.GatewayServiceApplication [main] Started GatewayServiceApplication in 29.409 seconds (JVM running for 31.841)
+2022-08-17 13:13:13,578 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [http-nio-9080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 13:13:13,582 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-17 13:13:13,660 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-1] Completed initialization in 73 ms
+2022-08-17 13:13:13,880 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-1] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 13:13:26,616 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Disable delta property : false
+2022-08-17 13:13:26,617 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Single vip registry refresh property : null
+2022-08-17 13:13:26,617 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Force full registry fetch : false
+2022-08-17 13:13:26,617 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Application is null : false
+2022-08-17 13:13:26,617 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Registered Applications size is zero : true
+2022-08-17 13:13:26,618 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Application version is -1: false
+2022-08-17 13:13:26,618 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Getting all instance registry info from the eureka server
+2022-08-17 13:13:26,733 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] The response status is 200
+2022-08-17 13:13:55,038 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(8)-127.0.0.1] Application shutdown requested.
+2022-08-17 13:13:55,061 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(8)-127.0.0.1] Unregistering application GATEWAY with eureka with status DOWN
+2022-08-17 13:13:55,066 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(8)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1660722235066, current=DOWN, previous=UP]
+2022-08-17 13:13:55,071 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 13:13:55,248 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 13:13:55,535 INFO org.apache.catalina.core.StandardService [RMI TCP Connection(8)-127.0.0.1] Stopping service [Tomcat]
+2022-08-17 13:13:55,556 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [RMI TCP Connection(8)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-08-17 13:13:55,617 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(8)-127.0.0.1] The web application [sbp] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 13:13:55,647 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(8)-127.0.0.1] The web application [sbp] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+ java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 13:13:55,650 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(8)-127.0.0.1] The web application [sbp] appears to have started a thread named [RxIoScheduler-1 (Evictor)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 13:13:55,699 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [RMI TCP Connection(8)-127.0.0.1] Stopping filter initializer
+2022-08-17 13:13:55,731 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(8)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-17 13:13:55,823 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(8)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 13:13:55,837 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(8)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-08-17 13:13:55,920 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(8)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-08-17 13:13:55,926 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(8)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-08-17 13:13:58,945 WARN com.netflix.discovery.TimedSupervisorTask [DiscoveryClient-0] task supervisor shutting down, can't accept the task
+2022-08-17 13:13:58,952 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(8)-127.0.0.1] Unregistering ...
+2022-08-17 13:13:59,004 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(8)-127.0.0.1] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - deregister  status: 200
+2022-08-17 13:13:59,109 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(8)-127.0.0.1] Completed shut down of DiscoveryClient
+2022-08-17 13:14:10,068 INFO com.rps.gateway.GatewayServiceApplication [main] The following profiles are active: dev
+2022-08-17 13:14:13,593 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-17 13:14:13,865 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 237ms. Found 0 JPA repository interfaces.
+2022-08-17 13:14:14,986 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2022-08-17 13:14:15,026 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'hystrix.stream' contains invalid characters, please migrate to a valid format.
+2022-08-17 13:14:15,492 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=88b3c33d-f62f-3e61-9467-c425b683f3ce
+2022-08-17 13:14:16,395 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6215366a' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 13:14:16,405 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 13:14:17,007 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9080 (http)
+2022-08-17 13:14:17,023 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-08-17 13:14:17,024 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-08-17 13:14:17,424 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [main] Initializing Spring embedded WebApplicationContext
+2022-08-17 13:14:17,425 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 7160 ms
+2022-08-17 13:14:17,891 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 13:14:17,892 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 13:14:17,952 INFO com.netflix.config.DynamicPropertyFactory [main] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@656a3d6b
+2022-08-17 13:14:18,687 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-17 13:14:19,204 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-17 13:14:19,345 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-08-17 13:14:19,809 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-17 13:14:20,275 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-08-17 13:14:22,022 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-08-17 13:14:22,059 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-17 13:14:24,243 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-17 13:14:24,261 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 13:14:25,144 INFO com.rps.gateway.config.SimpleCORSFilter [main] SimpleCORSFilter init
+2022-08-17 13:14:28,819 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses Jersey
+2022-08-17 13:14:28,964 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2022-08-17 13:14:29,424 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-08-17 13:14:30,666 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@75ac326f, org.springframework.security.web.context.SecurityContextPersistenceFilter@189e96af, org.springframework.security.web.header.HeaderWriterFilter@29b4444a, org.springframework.web.filter.CorsFilter@736f8837, org.springframework.security.web.authentication.logout.LogoutFilter@34cfdd84, com.rps.gateway.config.AuthTokenFilter@55f6f965, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@60e80279, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@568c9ee1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@14624acc, org.springframework.security.web.session.SessionManagementFilter@4fc256ec, org.springframework.security.web.access.ExceptionTranslationFilter@362c48c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@60cc20e1]
+2022-08-17 13:14:30,765 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 13:14:30,766 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 13:14:31,022 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-17 13:14:32,458 WARN org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger [main] You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2022-08-17 13:14:32,777 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [main] Starting filter initializer
+2022-08-17 13:14:32,966 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2022-08-17 13:14:33,042 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2022-08-17 13:14:33,148 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON encoding codec LegacyJacksonJson
+2022-08-17 13:14:33,149 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON decoding codec LegacyJacksonJson
+2022-08-17 13:14:33,383 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML encoding codec XStreamXml
+2022-08-17 13:14:33,383 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML decoding codec XStreamXml
+2022-08-17 13:14:34,003 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2022-08-17 13:14:34,085 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2022-08-17 13:14:34,085 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2022-08-17 13:14:34,086 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2022-08-17 13:14:34,087 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2022-08-17 13:14:34,087 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2022-08-17 13:14:34,087 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2022-08-17 13:14:34,089 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2022-08-17 13:14:34,456 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2022-08-17 13:14:34,463 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2022-08-17 13:14:34,471 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-08-17 13:14:34,485 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1660722274478 with initial instances count: 0
+2022-08-17 13:14:34,508 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GATEWAY with eureka with status UP
+2022-08-17 13:14:34,510 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1660722274510, current=UP, previous=STARTING]
+2022-08-17 13:14:34,516 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 13:14:34,618 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9080 (http) with context path '/sbp'
+2022-08-17 13:14:34,621 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9080
+2022-08-17 13:14:34,795 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 13:14:35,036 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2022-08-17 13:14:35,090 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2022-08-17 13:14:35,228 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2022-08-17 13:14:35,758 INFO com.rps.gateway.GatewayServiceApplication [main] Started GatewayServiceApplication in 29.169 seconds (JVM running for 30.592)
+2022-08-17 13:14:41,989 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [http-nio-9080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 13:14:41,992 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-17 13:14:42,052 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-1] Completed initialization in 60 ms
+2022-08-17 13:14:42,239 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-1] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 13:14:43,581 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 13:14:43,668 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 13:14:43,793 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 13:14:43,796 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 13:14:44,329 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 13:14:44,330 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 13:15:04,473 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Disable delta property : false
+2022-08-17 13:15:04,475 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Single vip registry refresh property : null
+2022-08-17 13:15:04,475 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Force full registry fetch : false
+2022-08-17 13:15:04,476 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Application is null : false
+2022-08-17 13:15:04,476 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Registered Applications size is zero : true
+2022-08-17 13:15:04,476 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Application version is -1: false
+2022-08-17 13:15:04,477 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Getting all instance registry info from the eureka server
+2022-08-17 13:15:04,589 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] The response status is 200
+2022-08-17 13:19:34,115 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:22:11,631 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-3] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 13:22:11,683 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 13:22:11,701 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 13:22:11,725 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 13:22:11,727 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 13:22:12,667 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 13:22:12,668 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 13:24:34,232 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:29:34,249 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:34:34,263 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:39:34,284 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:44:34,307 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:49:34,323 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:54:34,335 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 13:59:34,346 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:03:12,491 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(65)-127.0.0.1] Application shutdown requested.
+2022-08-17 14:03:12,510 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(65)-127.0.0.1] Unregistering application GATEWAY with eureka with status DOWN
+2022-08-17 14:03:12,512 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(65)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1660725192512, current=DOWN, previous=UP]
+2022-08-17 14:03:12,515 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 14:03:12,546 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 14:03:12,954 INFO org.apache.catalina.core.StandardService [RMI TCP Connection(65)-127.0.0.1] Stopping service [Tomcat]
+2022-08-17 14:03:12,987 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [RMI TCP Connection(65)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-08-17 14:03:13,027 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(65)-127.0.0.1] The web application [sbp] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 14:03:13,030 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(65)-127.0.0.1] The web application [sbp] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+ java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 14:03:13,033 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(65)-127.0.0.1] The web application [sbp] appears to have started a thread named [RxIoScheduler-1 (Evictor)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 14:03:13,100 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [RMI TCP Connection(65)-127.0.0.1] Stopping filter initializer
+2022-08-17 14:03:13,159 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(65)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-17 14:03:13,298 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(65)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 14:03:13,322 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(65)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-08-17 14:03:13,384 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(65)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-08-17 14:03:13,392 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(65)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-08-17 14:03:16,406 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(65)-127.0.0.1] Unregistering ...
+2022-08-17 14:03:16,437 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(65)-127.0.0.1] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - deregister  status: 200
+2022-08-17 14:03:16,543 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(65)-127.0.0.1] Completed shut down of DiscoveryClient
+2022-08-17 14:07:01,968 INFO com.rps.gateway.GatewayServiceApplication [main] The following profiles are active: dev
+2022-08-17 14:07:06,610 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-17 14:07:06,670 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 41ms. Found 0 JPA repository interfaces.
+2022-08-17 14:07:07,048 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2022-08-17 14:07:07,097 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'hystrix.stream' contains invalid characters, please migrate to a valid format.
+2022-08-17 14:07:07,538 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=88b3c33d-f62f-3e61-9467-c425b683f3ce
+2022-08-17 14:07:08,217 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@46dcbeab' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 14:07:08,236 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 14:07:09,024 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9080 (http)
+2022-08-17 14:07:09,039 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-08-17 14:07:09,040 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-08-17 14:07:09,308 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [main] Initializing Spring embedded WebApplicationContext
+2022-08-17 14:07:09,308 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 7290 ms
+2022-08-17 14:07:09,528 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 14:07:09,528 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 14:07:09,554 INFO com.netflix.config.DynamicPropertyFactory [main] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@4f93bf0a
+2022-08-17 14:07:09,795 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-17 14:07:10,112 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-17 14:07:10,234 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-08-17 14:07:10,476 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-17 14:07:10,715 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-08-17 14:07:11,588 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-08-17 14:07:11,623 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-17 14:07:13,382 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-17 14:07:13,422 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 14:07:14,202 INFO com.rps.gateway.config.SimpleCORSFilter [main] SimpleCORSFilter init
+2022-08-17 14:07:16,782 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses Jersey
+2022-08-17 14:07:17,231 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2022-08-17 14:07:17,526 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-08-17 14:07:18,238 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1c22642d, org.springframework.security.web.context.SecurityContextPersistenceFilter@26291192, org.springframework.security.web.header.HeaderWriterFilter@476a970c, org.springframework.web.filter.CorsFilter@75ac326f, org.springframework.security.web.authentication.logout.LogoutFilter@7526bb18, com.rps.gateway.config.AuthTokenFilter@4cf01c41, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2b540131, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@60e80279, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@736f8837, org.springframework.security.web.session.SessionManagementFilter@3ce7a354, org.springframework.security.web.access.ExceptionTranslationFilter@40d370fa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7b7b1448]
+2022-08-17 14:07:18,281 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 14:07:18,281 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 14:07:18,427 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-17 14:07:19,158 WARN org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger [main] You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2022-08-17 14:07:19,586 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [main] Starting filter initializer
+2022-08-17 14:07:19,858 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2022-08-17 14:07:19,957 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2022-08-17 14:07:20,095 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON encoding codec LegacyJacksonJson
+2022-08-17 14:07:20,095 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON decoding codec LegacyJacksonJson
+2022-08-17 14:07:20,341 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML encoding codec XStreamXml
+2022-08-17 14:07:20,351 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML decoding codec XStreamXml
+2022-08-17 14:07:21,309 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2022-08-17 14:07:21,427 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2022-08-17 14:07:21,427 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2022-08-17 14:07:21,427 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2022-08-17 14:07:21,428 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2022-08-17 14:07:21,429 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2022-08-17 14:07:21,429 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2022-08-17 14:07:21,431 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2022-08-17 14:07:22,469 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2022-08-17 14:07:22,480 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2022-08-17 14:07:22,485 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-08-17 14:07:22,509 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1660725442498 with initial instances count: 0
+2022-08-17 14:07:22,524 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GATEWAY with eureka with status UP
+2022-08-17 14:07:22,529 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1660725442526, current=UP, previous=STARTING]
+2022-08-17 14:07:22,533 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 14:07:22,600 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9080 (http) with context path '/sbp'
+2022-08-17 14:07:22,602 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9080
+2022-08-17 14:07:22,773 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 14:07:22,860 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2022-08-17 14:07:22,885 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2022-08-17 14:07:22,972 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2022-08-17 14:07:23,280 INFO com.rps.gateway.GatewayServiceApplication [main] Started GatewayServiceApplication in 24.713 seconds (JVM running for 26.719)
+2022-08-17 14:07:50,759 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [http-nio-9080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 14:07:50,761 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-17 14:07:50,825 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-1] Completed initialization in 64 ms
+2022-08-17 14:07:51,034 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-1] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 14:07:52,438 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 14:07:52,491 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Disable delta property : false
+2022-08-17 14:07:52,501 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Single vip registry refresh property : null
+2022-08-17 14:07:52,502 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Force full registry fetch : false
+2022-08-17 14:07:52,502 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Application is null : false
+2022-08-17 14:07:52,504 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Registered Applications size is zero : true
+2022-08-17 14:07:52,504 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Application version is -1: false
+2022-08-17 14:07:52,505 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] Getting all instance registry info from the eureka server
+2022-08-17 14:07:52,602 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 14:07:52,695 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-CacheRefreshExecutor-0] The response status is 200
+2022-08-17 14:07:52,705 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 14:07:52,707 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 14:07:53,189 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 14:07:53,190 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 14:12:21,477 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:13:43,810 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-8] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 14:13:43,835 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 14:13:43,845 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 14:13:43,857 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 14:13:43,858 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 14:13:44,183 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 14:13:44,184 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 14:14:09,326 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-9] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 14:14:09,412 ERROR com.rps.gateway.config.AuthEntryPoint [http-nio-9080-exec-9] Unauthorized error: Full authentication is required to access this resource
+2022-08-17 14:14:20,325 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 14:14:20,328 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 14:14:20,335 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 14:14:20,337 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 14:17:21,494 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:22:21,510 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:27:21,529 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:32:21,542 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:37:21,556 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:42:21,578 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:47:21,599 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:52:21,612 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 14:57:21,622 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:02:21,640 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:07:21,648 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:12:21,656 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:17:21,679 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:22:21,700 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:27:21,719 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:32:21,732 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:37:21,746 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:42:21,757 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:47:21,773 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:52:21,796 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 15:57:21,815 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:02:21,830 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:07:21,843 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:12:21,862 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:17:21,886 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:22:21,904 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:27:21,913 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:32:21,939 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:37:21,960 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:42:21,976 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:47:21,990 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:52:22,012 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 16:57:22,040 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:02:22,067 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:07:22,087 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:12:22,098 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:17:22,111 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:22:22,122 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:27:22,145 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:32:22,166 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:37:22,181 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:42:22,202 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:47:22,218 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:52:22,237 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 17:57:22,252 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:02:22,274 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:07:22,287 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:12:22,304 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:17:22,330 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:22:22,342 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:27:22,351 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:32:22,373 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:37:22,381 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:42:22,394 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:47:22,417 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:52:22,430 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 18:57:22,445 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:02:22,461 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:07:22,467 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:12:22,484 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:17:22,499 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:22:22,520 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:27:22,533 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:32:22,556 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:37:22,564 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:42:22,578 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:47:22,591 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:52:22,613 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 19:57:22,622 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:02:22,634 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:07:22,646 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:12:11,727 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-3] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 20:12:11,835 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:12:11,863 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:12:11,909 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:12:11,911 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:12:12,669 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:12:12,671 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:12:22,674 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:14:04,652 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-8] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 20:14:04,669 ERROR com.rps.gateway.config.AuthEntryPoint [http-nio-9080-exec-8] Unauthorized error: Full authentication is required to access this resource
+2022-08-17 20:17:22,692 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:21:28,773 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-9] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 20:21:28,863 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:21:28,882 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:21:28,921 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:21:28,924 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:21:29,687 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:21:29,689 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:21:29,842 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-6] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 20:21:29,845 ERROR com.rps.gateway.config.AuthEntryPoint [http-nio-9080-exec-6] Unauthorized error: Full authentication is required to access this resource
+2022-08-17 20:22:22,709 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:24:21,641 ERROR com.rps.gateway.config.JwtTokenUtils [http-nio-9080-exec-5] JWT claims string is empty: JWT String argument cannot be null or empty.
+2022-08-17 20:24:21,647 ERROR com.rps.gateway.config.AuthEntryPoint [http-nio-9080-exec-5] Unauthorized error: Full authentication is required to access this resource
+2022-08-17 20:26:40,291 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(463)-127.0.0.1] Application shutdown requested.
+2022-08-17 20:26:40,329 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(463)-127.0.0.1] Unregistering application GATEWAY with eureka with status DOWN
+2022-08-17 20:26:40,331 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(463)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1660748200331, current=DOWN, previous=UP]
+2022-08-17 20:26:40,334 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 20:26:40,421 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 20:26:41,122 INFO org.apache.catalina.core.StandardService [RMI TCP Connection(463)-127.0.0.1] Stopping service [Tomcat]
+2022-08-17 20:26:41,139 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [RMI TCP Connection(463)-127.0.0.1] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2022-08-17 20:26:41,160 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(463)-127.0.0.1] The web application [sbp] appears to have started a thread named [HikariPool-1 housekeeper] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 20:26:41,162 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(463)-127.0.0.1] The web application [sbp] appears to have started a thread named [spring.cloud.inetutils] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.park(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(Unknown Source)
+ java.util.concurrent.LinkedBlockingQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 20:26:41,163 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(463)-127.0.0.1] The web application [sbp] appears to have started a thread named [RxIoScheduler-1 (Evictor)] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 20:26:41,164 WARN org.apache.catalina.loader.WebappClassLoaderBase [RMI TCP Connection(463)-127.0.0.1] The web application [sbp] appears to have started a thread named [expiringMap-0] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ sun.misc.Unsafe.park(Native Method)
+ java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+ java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+ java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+ java.lang.Thread.run(Unknown Source)
+2022-08-17 20:26:41,196 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [RMI TCP Connection(463)-127.0.0.1] Stopping filter initializer
+2022-08-17 20:26:41,231 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(463)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-17 20:26:41,287 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(463)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 20:26:41,309 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(463)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2022-08-17 20:26:41,340 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(463)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2022-08-17 20:26:41,348 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(463)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-08-17 20:26:44,366 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(463)-127.0.0.1] Unregistering ...
+2022-08-17 20:26:44,455 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(463)-127.0.0.1] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - deregister  status: 200
+2022-08-17 20:26:44,582 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(463)-127.0.0.1] Completed shut down of DiscoveryClient
+2022-08-17 20:27:07,787 INFO com.rps.gateway.GatewayServiceApplication [main] The following profiles are active: dev
+2022-08-17 20:27:11,419 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-17 20:27:11,472 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 36ms. Found 0 JPA repository interfaces.
+2022-08-17 20:27:11,720 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2022-08-17 20:27:11,750 WARN org.springframework.boot.actuate.endpoint.EndpointId [main] Endpoint ID 'hystrix.stream' contains invalid characters, please migrate to a valid format.
+2022-08-17 20:27:12,153 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=88b3c33d-f62f-3e61-9467-c425b683f3ce
+2022-08-17 20:27:12,744 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@27a09971' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 20:27:12,755 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [main] Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-17 20:27:13,557 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9080 (http)
+2022-08-17 20:27:13,577 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2022-08-17 20:27:13,577 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-08-17 20:27:13,948 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [main] Initializing Spring embedded WebApplicationContext
+2022-08-17 20:27:13,949 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 6079 ms
+2022-08-17 20:27:14,177 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 20:27:14,177 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 20:27:14,197 INFO com.netflix.config.DynamicPropertyFactory [main] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@69f2cb04
+2022-08-17 20:27:14,419 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-17 20:27:14,732 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-17 20:27:14,820 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-08-17 20:27:15,126 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-17 20:27:15,356 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2022-08-17 20:27:16,268 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2022-08-17 20:27:16,294 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-08-17 20:27:17,658 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-17 20:27:17,677 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-17 20:27:18,441 INFO com.rps.gateway.config.SimpleCORSFilter [main] SimpleCORSFilter init
+2022-08-17 20:27:21,109 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses Jersey
+2022-08-17 20:27:21,180 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [main] Exposing 2 endpoint(s) beneath base path '/actuator'
+2022-08-17 20:27:21,385 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [main] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-08-17 20:27:21,989 INFO org.springframework.security.web.DefaultSecurityFilterChain [main] Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49809275, org.springframework.security.web.context.SecurityContextPersistenceFilter@26291192, org.springframework.security.web.header.HeaderWriterFilter@476a970c, org.springframework.web.filter.CorsFilter@68b3979d, org.springframework.security.web.authentication.logout.LogoutFilter@7526bb18, com.rps.gateway.config.AuthTokenFilter@7b795db7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2b540131, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@60e80279, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5fd31df7, org.springframework.security.web.session.SessionManagementFilter@3ce7a354, org.springframework.security.web.access.ExceptionTranslationFilter@40d370fa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1c22642d]
+2022-08-17 20:27:22,035 WARN com.netflix.config.sources.URLConfigurationSource [main] No URLs will be polled as dynamic configuration sources.
+2022-08-17 20:27:22,035 INFO com.netflix.config.sources.URLConfigurationSource [main] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2022-08-17 20:27:22,183 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-17 20:27:22,998 WARN org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger [main] You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2022-08-17 20:27:23,326 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [main] Starting filter initializer
+2022-08-17 20:27:23,518 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2022-08-17 20:27:23,604 INFO com.netflix.discovery.DiscoveryClient [main] Initializing Eureka in region us-east-1
+2022-08-17 20:27:23,716 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON encoding codec LegacyJacksonJson
+2022-08-17 20:27:23,717 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using JSON decoding codec LegacyJacksonJson
+2022-08-17 20:27:24,003 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML encoding codec XStreamXml
+2022-08-17 20:27:24,005 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [main] Using XML decoding codec XStreamXml
+2022-08-17 20:27:24,490 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [main] Resolving eureka endpoints via configuration
+2022-08-17 20:27:24,556 INFO com.netflix.discovery.DiscoveryClient [main] Disable delta property : false
+2022-08-17 20:27:24,556 INFO com.netflix.discovery.DiscoveryClient [main] Single vip registry refresh property : null
+2022-08-17 20:27:24,557 INFO com.netflix.discovery.DiscoveryClient [main] Force full registry fetch : false
+2022-08-17 20:27:24,557 INFO com.netflix.discovery.DiscoveryClient [main] Application is null : false
+2022-08-17 20:27:24,557 INFO com.netflix.discovery.DiscoveryClient [main] Registered Applications size is zero : true
+2022-08-17 20:27:24,557 INFO com.netflix.discovery.DiscoveryClient [main] Application version is -1: true
+2022-08-17 20:27:24,557 INFO com.netflix.discovery.DiscoveryClient [main] Getting all instance registry info from the eureka server
+2022-08-17 20:27:25,037 INFO com.netflix.discovery.DiscoveryClient [main] The response status is 200
+2022-08-17 20:27:25,046 INFO com.netflix.discovery.DiscoveryClient [main] Starting heartbeat executor: renew interval is: 30
+2022-08-17 20:27:25,052 INFO com.netflix.discovery.InstanceInfoReplicator [main] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-08-17 20:27:25,061 INFO com.netflix.discovery.DiscoveryClient [main] Discovery Client initialized at timestamp 1660748245058 with initial instances count: 1
+2022-08-17 20:27:25,075 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application GATEWAY with eureka with status UP
+2022-08-17 20:27:25,076 INFO com.netflix.discovery.DiscoveryClient [main] Saw local status change event StatusChangeEvent [timestamp=1660748245076, current=UP, previous=STARTING]
+2022-08-17 20:27:25,080 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080: registering service...
+2022-08-17 20:27:25,144 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9080 (http) with context path '/sbp'
+2022-08-17 20:27:25,147 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9080
+2022-08-17 20:27:25,155 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_GATEWAY/host.docker.internal:gateway:9080 - registration status: 204
+2022-08-17 20:27:25,538 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2022-08-17 20:27:25,562 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2022-08-17 20:27:25,658 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2022-08-17 20:27:25,993 INFO com.rps.gateway.GatewayServiceApplication [main] Started GatewayServiceApplication in 22.442 seconds (JVM running for 25.074)
+2022-08-17 20:27:37,006 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/sbp] [http-nio-9080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-17 20:27:37,007 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-08-17 20:27:37,066 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-9080-exec-2] Completed initialization in 59 ms
+2022-08-17 20:27:39,153 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:27:39,287 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 20:27:39,386 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:27:39,393 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:27:40,224 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:27:40,228 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:27:40,231 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:27:40,232 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:27:40,563 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:27:40,565 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:27:41,362 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:27:41,366 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 20:27:41,377 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:27:41,379 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:29:33,321 DEBUG org.hibernate.SQL [http-nio-9080-exec-5] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:29:33,347 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-5] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 20:29:33,376 DEBUG org.hibernate.SQL [http-nio-9080-exec-5] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:29:33,377 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-5] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:31:11,500 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:31:11,511 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 20:31:11,527 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:31:11,527 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:31:30,174 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:31:30,188 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 20:31:30,199 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:31:30,201 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:31:30,889 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:31:30,893 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:31:30,898 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:31:30,900 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:31:31,548 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:31:31,549 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 20:31:31,838 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 20:31:31,845 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 20:31:31,858 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 20:31:31,860 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 20:32:24,579 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:37:24,602 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:42:24,616 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:47:24,635 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:52:24,653 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 20:57:24,669 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:02:24,684 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:05:40,639 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:05:40,649 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:05:40,659 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:05:40,660 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:07:19,112 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:07:19,123 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:07:19,135 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:07:19,136 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:07:24,695 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:07:43,782 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:07:43,784 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:07:43,790 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:07:43,790 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:09:04,450 DEBUG org.hibernate.SQL [http-nio-9080-exec-6] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:09:04,453 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-6] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:09:04,456 DEBUG org.hibernate.SQL [http-nio-9080-exec-6] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:09:04,456 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-6] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:09:22,796 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:09:22,798 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:09:22,801 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:09:22,802 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:09:41,646 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:09:41,671 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:09:41,698 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:09:41,699 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:09:42,179 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:09:42,181 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:09:42,193 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:09:42,194 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:09:42,638 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:09:42,639 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:09:42,710 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:09:42,712 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:09:42,715 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:09:42,715 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:12:24,708 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:12:42,493 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:12:42,500 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:12:42,516 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:12:42,517 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:13:03,005 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:13:03,007 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:13:03,010 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:13:03,010 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:13:26,356 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:13:26,358 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:13:26,364 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:13:26,364 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:13:42,286 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:13:42,290 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:13:42,297 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:13:42,300 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:13:42,881 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:13:42,885 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:13:42,889 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:13:42,892 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:13:43,702 DEBUG org.hibernate.SQL [http-nio-9080-exec-4] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:13:43,705 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-4] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:13:43,902 DEBUG org.hibernate.SQL [http-nio-9080-exec-5] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:13:43,904 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-5] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:13:43,910 DEBUG org.hibernate.SQL [http-nio-9080-exec-5] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:13:43,911 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-5] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:14:53,385 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:14:53,394 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:14:53,404 DEBUG org.hibernate.SQL [http-nio-9080-exec-7] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:14:53,405 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-7] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:15:25,435 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:15:25,440 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:15:25,447 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:15:25,449 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:15:26,075 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:15:26,082 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:15:26,088 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:15:26,089 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:15:26,707 DEBUG org.hibernate.SQL [http-nio-9080-exec-8] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:15:26,709 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-8] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:15:26,886 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:15:26,888 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:15:26,896 DEBUG org.hibernate.SQL [http-nio-9080-exec-9] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:15:26,897 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-9] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:17:24,715 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:18:38,098 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:18:38,101 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:18:38,105 DEBUG org.hibernate.SQL [http-nio-9080-exec-2] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:18:38,105 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-2] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:19:12,338 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:19:12,365 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:19:12,397 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:19:12,398 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:19:12,944 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:19:12,945 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:19:12,948 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:19:12,949 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:19:13,278 DEBUG org.hibernate.SQL [http-nio-9080-exec-1] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:19:13,279 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-1] binding parameter [1] as [VARCHAR] - [kalaiv]
+2022-08-17 21:19:13,357 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select userinfo0_.id as id1_1_, userinfo0_.createdDate as createdd2_1_, userinfo0_.employeeId as employee3_1_, userinfo0_.firstName as firstnam4_1_, userinfo0_.lastName as lastname5_1_, userinfo0_.password as password6_1_, userinfo0_.roleId as roleid8_1_, userinfo0_.userName as username7_1_ from UserInfo userinfo0_ where userinfo0_.userName=?
+2022-08-17 21:19:13,358 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [VARCHAR] - [KalaiV]
+2022-08-17 21:19:13,361 DEBUG org.hibernate.SQL [http-nio-9080-exec-3] select roleinfo0_.id as id1_0_0_, roleinfo0_.roleName as rolename2_0_0_ from RoleInfo roleinfo0_ where roleinfo0_.id=?
+2022-08-17 21:19:13,362 TRACE org.hibernate.type.descriptor.sql.BasicBinder [http-nio-9080-exec-3] binding parameter [1] as [INTEGER] - [1]
+2022-08-17 21:22:24,728 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:27:24,749 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:32:24,758 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:37:24,771 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:42:24,777 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:47:24,792 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:52:24,803 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 21:57:24,812 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:02:24,817 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:07:24,826 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:12:24,830 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:17:24,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:22:24,863 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:27:24,869 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:32:24,873 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:37:24,892 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:42:24,904 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:47:24,917 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:52:24,929 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 22:57:24,946 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:02:24,957 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:07:24,974 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:12:24,986 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:17:24,999 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:22:25,008 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:27:25,012 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:32:25,024 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:37:25,040 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:42:25,048 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:47:25,058 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:52:25,064 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-08-17 23:57:25,076 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration

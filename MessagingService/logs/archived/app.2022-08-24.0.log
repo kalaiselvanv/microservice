@@ -1,0 +1,25 @@
+2022-08-24 20:36:52,196 INFO org.springframework.kafka.listener.KafkaMessageListenerContainer [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] group_id: partitions assigned: [topico.teste-0]
+2022-08-24 21:35:04,542 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(3646)-127.0.0.1] Application shutdown requested.
+2022-08-24 21:35:04,552 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(3646)-127.0.0.1] Unregistering application UNKNOWN with eureka with status DOWN
+2022-08-24 21:35:04,803 INFO org.springframework.kafka.listener.KafkaMessageListenerContainer [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] group_id: partitions revoked: [topico.teste-0]
+2022-08-24 21:35:04,805 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] Shutting down ExecutorService
+2022-08-24 21:35:04,820 INFO org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] group_id: Consumer stopped
+2022-08-24 21:35:04,846 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [RMI TCP Connection(3646)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-08-24 21:35:04,857 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(3646)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-24 21:36:21,187 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-24 21:36:21,300 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 56ms. Found 0 JPA repository interfaces.
+2022-08-24 21:36:22,407 INFO org.springframework.cloud.context.scope.GenericScope [main] BeanFactory id=50778278-a655-32f9-906c-f2988c08618f
+2022-08-24 21:36:23,910 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9083 (http)
+2022-08-24 21:36:24,510 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 5560 ms
+2022-08-24 21:36:31,361 INFO org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-24 21:36:31,807 WARN org.springframework.cloud.netflix.archaius.ArchaiusAutoConfiguration [main] No spring.application.name found, defaulting to 'application'
+2022-08-24 21:36:32,123 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-24 21:36:32,668 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2022-08-24 21:36:34,654 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [main] Eureka HTTP Client uses Jersey
+2022-08-24 21:36:35,202 WARN org.springframework.cloud.loadbalancer.config.BlockingLoadBalancerClientAutoConfiguration$BlockingLoadBalancerClientRibbonWarnLogger [main] You already have RibbonLoadBalancerClient on your classpath. It will be used by default. As Spring Cloud Ribbon is in maintenance mode. We recommend switching to BlockingLoadBalancerClient instead. In order to use it, set the value of `spring.cloud.loadbalancer.ribbon.enabled` to `false` or remove spring-cloud-starter-netflix-ribbon from your project.
+2022-08-24 21:36:35,821 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [main] Setting initial instance status as: STARTING
+2022-08-24 21:36:39,223 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [main] Registering application UNKNOWN with eureka with status UP
+2022-08-24 21:36:39,769 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler [main] Initializing ExecutorService
+2022-08-24 21:36:39,881 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9083 (http) with context path ''
+2022-08-24 21:36:39,888 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [main] Updating port to 9083
+2022-08-24 21:39:00,746 INFO org.springframework.kafka.listener.KafkaMessageListenerContainer [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] group_id: partitions assigned: [topico.teste-0]
